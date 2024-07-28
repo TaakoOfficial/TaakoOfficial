@@ -1,5 +1,5 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="30px"></h2>
 </div>
 
 <div align="center" width="50">
@@ -30,7 +30,7 @@ or <a href="mailto:TaakoOfficialofficial@gmail.com"><b>email</b></a> me
 
 ---
 
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/TaakoOfficial/TaakoOfficial)
+[![HitCount](https://hits.dwyl.com/TaakoOfficial/https://githubcom/TaakoOfficial.svg?style=flat-square)](http://hits.dwyl.com/TaakoOfficial/https://githubcom/TaakoOfficial)
 
 <i>Follow me around the web:</i><br>
 
